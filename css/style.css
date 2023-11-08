@@ -257,7 +257,7 @@ header {
      background: #0f132d;
      width: 100%;
      padding: 22px 30px;
-     height: 96px;
+     height: auto;
      z-index: 9;
 }
 
@@ -265,6 +265,14 @@ header {
      color: #fff;
      font-size: 25px;
      font-weight: bold;
+}
+
+.logo_top {
+     width: 50%;
+}
+
+.words_top {
+     width: 80%;
 }
 
 ul.social_icon {
